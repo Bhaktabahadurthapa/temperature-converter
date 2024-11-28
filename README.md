@@ -54,6 +54,7 @@ Run the container:
 docker run -d -p 8000:8000 --name temp-converter temperature-converter
 ```
 ## Project Structure
+```
 temperature-converter/
 ├── src/
 │   ├── main/
@@ -73,7 +74,7 @@ temperature-converter/
 │   │       └── templates/
 │   │           └── converter.html
 └── pom.xml
-
+```
 ## API Usage
 Convert temperature using the web interface or the REST API:
 ```
