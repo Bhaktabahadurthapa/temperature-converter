@@ -102,13 +102,12 @@ Open a Pull Request
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ## Contact
-Your Name - Bhakta Thapa
+Name - Bhakta Thapa
 Project Link: https://github.com/Bhaktabahadurthapa/temperature-converter.git
 ## Acknowledgments
-Spring Boot Documentation
-Docker Documentation
-Thymeleaf Documentation
-
+**Spring Boot Documentation**
+**Docker Documentation**
+**Thymeleaf Documentation**
 
 
 
