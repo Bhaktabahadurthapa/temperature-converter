@@ -1,5 +1,6 @@
 ## Temperature Converter Application
 A Spring Boot application for converting temperatures between Celsius, Fahrenheit, and Kelvin units. This project demonstrates clean architecture, Docker containerization, and responsive web design.
+
 **Features**
 ```
 Convert temperatures between different units:
