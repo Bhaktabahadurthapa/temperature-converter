@@ -1,7 +1,7 @@
 ## Temperature Converter Application
 A Spring Boot application for converting temperatures between Celsius, Fahrenheit, and Kelvin units. This project demonstrates clean architecture, Docker containerization, and responsive web design.
 
-<img width="1700" alt="image" src="https://github.com/user-attachments/assets/58537a06-62f2-4e29-92d6-0697f08b2255">
+<img width="1364" alt="image" src="https://github.com/user-attachments/assets/dd2f2631-4803-42d0-9e11-38fea111da79">
 
 **Features**
 ```
@@ -56,7 +56,7 @@ Run the container:
 ```
 docker run -d -p 8000:8000 --name temp-converter temperature-converter
 ```
-<img width="1364" alt="image" src="https://github.com/user-attachments/assets/dd2f2631-4803-42d0-9e11-38fea111da79">
+<img width="1700" alt="image" src="https://github.com/user-attachments/assets/58537a06-62f2-4e29-92d6-0697f08b2255">
 
 ## Project Structure
 ```
